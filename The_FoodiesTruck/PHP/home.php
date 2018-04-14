@@ -1,7 +1,7 @@
 <?php
 	//TODO: Replace portfolio ID with your Portfolio ID
-	$portfolioId	= "9PO5Y6DE3";
-	$forwardDomain	= "http://www.searchingredirect.com/";	
+	$portfolioId	= "44TLKSD:F";
+	$forwardDomain	= "http://www.thefoodiestruck.com/";	
 	
 	
 	//
